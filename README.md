@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, i'm Rodolfo. 👋
 
 <!--
 **RodolfoPF/RodolfoPF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm currently a student of Statistics at State University of Paraíba.
+- I'm currently studying Data Science and Machine Learning.
+- I currently work in NUTES (Nucleus for Strategic Health Technologies) at State University of Paraíba.
+- I'm a researcher in TAIL (Technology and Artificial Intelligence League) at Federal University of Paraiba.
+- I'm developing an extension project called Estaticast, which is a podcast where we talk about Statistics, Data Science and Artificial Intelligence.
