@@ -1,4 +1,5 @@
-### Hi, i'm Rodolfo. 👋
+### Hi, i'm Rodolfo. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">]
 
 <!--
 **RodolfoPF/RodolfoPF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +20,5 @@ Here are some ideas to get you started:
 - I currently work in NUTES (Nucleus for Strategic Health Technologies) at State University of Paraíba.
 - I'm a researcher in TAIL (Technology and Artificial Intelligence League) at Federal University of Paraiba.
 - I'm developing an extension project called Estaticast, which is a podcast where we talk about Statistics, Data Science and Artificial Intelligence.
+
+
