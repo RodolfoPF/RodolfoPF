@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 🧧 Connect with me:
 
 
-- <img align="left" alt="subhamrex | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" /> - https://www.linkedin.com/in/rodolfo-pereira-franklin-7339a9182/
+- <img align="left" alt="subhamrex | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" /> - https://www.linkedin.com/in/rodolfopf/
 
 - <img align="left" alt="subhamrex | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" /> - https://www.instagram.com/rodolfo.pf/
 
